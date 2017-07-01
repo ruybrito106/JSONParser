@@ -1,5 +1,3 @@
-package project;
-
 public class Movie {
 
   private String title;
@@ -85,4 +83,5 @@ public class Movie {
   public void setBoxOffice(String boxOffice) {
   	this.boxOffice = boxOffice;
   }
+  
 }
