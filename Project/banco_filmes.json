@@ -1,0 +1,132 @@
+{
+   "Filmes":[
+      {
+         "Title":"Mulher Maravilha",
+         "Rated":"12",
+         "Genre":"Action, Adventure, Fantasy",
+         "Director":"Patty Jenkins",
+         "Actors":"Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright",
+         "Country":"USA, China, Hong Kong",
+         "imdbRating":"8.3",
+         "BoxOffice":"$103,251,471"
+      },
+      {
+         "Title":"A Múmia",
+         "Rated":"12",
+         "Genre":"Action, Adventure, Fantasy",
+         "Director":"Alex Kurtzman",
+         "Actors":"Tom Cruise, Russell Crowe, Annabelle Wallis, Sofia Boutella",
+         "Country":"USA",
+         "imdbRating":"5.9",
+         "BoxOffice":"$31,668,375"
+      },
+      {
+         "Title":"Baywatch - S.O.S Malibu",
+         "Rated":"14",
+         "Genre":"Action, Comedy, Drama",
+         "Director":"Seth Gordon",
+         "Actors":"Dwayne Johnson, Zac Efron, Priyanka Chopra, Alexandra Daddario",
+         "Country":"USA",
+         "imdbRating":"5.6",
+         "BoxOffice":"$22,706,514"
+      },
+      {
+         "Title":"Meus 15 Anos",
+         "Rated":"10",
+         "Genre":"Comedy, Drama",
+         "Director":"Caroline Okoshi Fioratti",
+         "Actors":"Anitta, Larissa Manoela, Rafael Infante, Lorena Queiroz",
+         "Country":"Brazil",
+         "imdbRating":"7.0",
+         "BoxOffice":"N/A"
+      },
+      {
+         "Title":"Piratas do Caribe - A Vingança de Salazar",
+         "Rated":"12",
+         "Genre":"Action, Adventure, Fantasy",
+         "Director":"Joachim Rønning, Espen Sandberg",
+         "Actors":"Johnny Depp, Javier Bardem, Geoffrey Rush, Brenton Thwaites",
+         "Country":"USA",
+         "imdbRating":"7.2",
+         "BoxOffice":"$62,179,000"
+      },
+      {
+         "Title":"Ao Cair da Noite",
+         "Rated":"14",
+         "Genre":"Horror, Mystery",
+         "Director":"Trey Edward Shults",
+         "Actors":"Joel Edgerton, Christopher Abbott, Carmen Ejogo, Riley Keough",
+         "Country":"USA",
+         "imdbRating":"7.6",
+         "BoxOffice":"N/A"
+      },
+      {
+         "Title":"As Aventuras de Ozzy",
+         "Rated":"3",
+         "Genre":"Animation, Adventure, Comedy",
+         "Director":"Alberto Rodríguez, Nacho La Casa",
+         "Actors":"Guillermo Romero, Dani Rovira, José Mota, Michelle Jenner",
+         "Country":"Spain, Canada",
+         "imdbRating":"5.3",
+         "BoxOffice":"N/A"
+      },
+      {
+         "Title":"Tudo e Todas as Coisas",
+         "Rated":"A Definir",
+         "Genre":"Drama, Romance",
+         "Director":"Stella Meghie",
+         "Actors":"Amandla Stenberg, Nick Robinson, Anika Noni Rose, Ana de la Reguera",
+         "Country":"USA",
+         "imdbRating":"6.3",
+         "BoxOffice":"$21,541,113"
+      },
+      {
+         "Title":"A Cabana",
+         "Rated":"12",
+         "Genre":"Drama, Fantasy",
+         "Director":"Stuart Hazeldine",
+         "Actors":"Sam Worthington, Octavia Spencer, Tim McGraw, Radha Mitchell",
+         "Country":"USA",
+         "imdbRating":"6.3"
+      },
+      {
+         "Title":"Frantz",
+         "Rated":"12",
+         "Genre":"Drama, History, War",
+         "Director":"François Ozon",
+         "Actors":"Pierre Niney, Paula Beer, Ernst Stötzner, Marie Gruber",
+         "Country":"France, Germany",
+         "imdbRating":"7.5",
+         "BoxOffice":"$872,134"
+      },
+      {
+         "Title":"Paris Pode Esperar",
+         "Rated":"12",
+         "Genre":"Comedy, Drama, Romance",
+         "Director":"Eleanor Coppola",
+         "Actors":"Diane Lane, Alec Baldwin, Arnaud Viard, Linda Gegusch",
+         "Country":"USA, Japan",
+         "imdbRating":"5.7",
+         "BoxOffice":"$3,195,793"
+      },
+      {
+         "Title":"Um Instante de Amor",
+         "Rated":"PG-13",
+         "Genre":"Drama, Romance",
+         "Director":"Nicole Garcia",
+         "Country":"France",
+         "imdbRating":"6.8",
+         "BoxOffice":"$3,195,793"
+      },
+      {
+         "Title":"Um Tio Quase Perfeito",
+         "Rated":"PG",
+         "Genre":"Comedy",
+         "Director":"Pedro Antonio",
+         "Actors":"Marco Madeira, Pedro Papel",
+         "Country":"Brazil",
+         "imdbRating":"5.6",
+         "BoxOffice":"$3,195,793"
+      }
+   ]
+}
